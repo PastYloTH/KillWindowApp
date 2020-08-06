@@ -2,6 +2,8 @@
     MICROSOFT FOUNDATION CLASS LIBRARY : MyKillWinAppCpp Project Overview
 ===============================================================================
 
+hjgihj
+
 The application wizard has created this MyKillWinAppCpp application for
 you.  This application not only demonstrates the basics of using the Microsoft
 Foundation Classes but is also a starting point for writing your application.
