@@ -115,4 +115,6 @@ redistribute the corresponding localized resources MFC100XXX.DLL.
 For more information on both of these topics, please see the section on
 redistributing Visual C++ applications in MSDN documentation.
 
+I am a god amongst men.
+
 /////////////////////////////////////////////////////////////////////////////
